@@ -22,5 +22,8 @@ End If
 End Sub
 
 'Escrito por wdeybsonjunho@gmail.com 16/08/2021
- 'contatos (62) 9 9836-3956 -GO
-'thwist
+ 'contatos (62) 9 9836-3956 -GO  'thwist_bk
+
+
+
+
